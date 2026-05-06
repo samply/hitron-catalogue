@@ -1,0 +1,19 @@
+{
+  "experimentalMethods": [
+    {
+      "code": "EM1",
+      "name": "PCR",
+      "description": "Polymerase Chain Reaction (PCR)"
+    },
+    {
+      "code": "EM2",
+      "name": "Western Blot",
+      "description": "Western blot experimental methods"
+    },
+    {
+      "code": "EM3",
+      "name": "Flow Cytometry",
+      "description": "Flow cytometry experimental methods"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+[
+  {
+    "id": "hitron-omics-1",
+    "cardTitle": "Genomic Profiling for Cancer Subtype Identification",
+    "cardAbstract": "This project focuses on using genomic data to classify cancer subtypes, providing insights into personalized treatment approaches. Researchers in this project employ advanced genomic profiling techniques to categorize different cancer subtypes more accurately. By understanding the genomic basis of each subtype, the project aims to personalize cancer treatment strategies for better outcomes.",
+    "cardTags": [
+      "Dataset",
+      "Functional Genomics",
+      "Cancer Subtypes",
+      "Personalized Treatment"
+    ],
+    "materialType": "Tumor Tissues",
+    "collectionType": "Prospective",
+    "cancerType": ["Breat", "Lung", "Colorectal", "Pancreatic"],
+    "omicsDataType": [
+      "Genomics",
+      "Transcriptomics",
+      "Proteomics",
+      "Metabolomics"
+    ],
+    "generationPipelines": [
+      "Genomic Sequencing",
+      "RNA-seq",
+      "Mass Spectrometry",
+      "Metabolomics Analysis"
+    ],
+    "analysisMethods": [
+      "Differential",
+      "Gene",
+      "Expression",
+      "Mutation",
+      "Calling",
+      "Protein",
+      "Expression",
+      "Analysis",
+      "Metabolic",
+      "Pathway",
+      "Analysis"
+    ],
+    "clinicalinformation": [
+      "Informed consent",
+      "Adherence to ethical guidelines"
+    ],
+    "ethicalConsideration": [
+      "Bioinformaticians",
+      "Molecular",
+      "Biologists",
+      "Clinicians"
+    ],
+    "dataSharing": "De-identified data shared with scientific community",
+    "collaborations": [
+      "Bioinformaticians",
+      "Molecular",
+      "Biologists",
+      "Clinicians"
+    ],
+    "contactInformation": [
+      "https://hitron.dkfz.de/",
+      "e.watson@dkfz-heidelberg.de",
+      "Dr. Emily Watson",
+      "Department of Bioinformatics, HI-TRON Mainz"
+    ]
+  },
+  {
+    "id": "hitron-immuno-1",
+    "cardTitle": "Immunotherapy Advancements in Cancer Treatment",
+    "cardAbstract": "Immunotherapy Advancements is dedicated to exploring novel approaches for enhancing the effectiveness of immunotherapy in treating cancer. The project focuses on developing innovative immunotherapy techniques, including checkpoint inhibitors and CAR-T cell therapies. Researchers aim to make immunotherapy more effective and accessible to a broader range of cancer patients.",
+    "cardTags": [
+      "Dataset",
+      "Immunotherapy",
+      "Cancer Treatment",
+      "Novel Approaches"
+    ],
+    "materialType": "Tumor Tissues",
+    "collectionType": "Prospective",
+    "cancerType": ["Breast", "Lung", "Colorectal", "Pancreatic"],
+    "omicsDataType": [
+      "Genomics",
+      "Transcriptomics",
+      "Proteomics",
+      "Metabolomics"
+    ],
+    "generationPipelines": [
+      "Genomic Sequencing",
+      "RNA-seq",
+      "Mass Spectrometry",
+      "Metabolomics Analysis"
+    ],
+    "analysisMethods": [
+      "Differential Gene Expression",
+      "Mutation Calling",
+      "Protein Expression Analysis",
+      "Metabolic Pathway Analysis"
+    ],
+    "clinicalinformation": [
+      "Informed consent",
+      "Adherence to ethical guidelines"
+    ],
+    "ethicalConsideration": [
+      "Bioinformaticians",
+      "Molecular Biologists",
+      "Clinicians"
+    ],
+    "dataSharing": "De-identified data shared with the scientific community",
+    "collaborations": [
+      "Bioinformaticians",
+      "Molecular Biologists",
+      "Clinicians"
+    ],
+    "contactInformation": [
+      "https://hitron.dkfz.de/",
+      "e.watson@dkfz-heidelberg.de",
+      "Dr. Emily Watson",
+      "Department of Bioinformatics, HI-TRON Mainz"
+    ]
+  },
+  {
+    "id": "hitron-study-1",
+    "cardTitle": "Epidemiological Studies on Cancer Incidence",
+    "cardAbstract": "Epidemiological Studies analyze cancer incidence data to understand the factors contributing to cancer prevalence and potential preventive measures. This project examines the demographic and environmental factors associated with varying cancer incidence rates. By identifying these factors, researchers hope to develop preventive measures and public health strategies to reduce the incidence of specific cancer types.",
+    "cardTags": [
+      "Dataset",
+      "Epidemiological Studies",
+      "Cancer Incidence",
+      "Preventive Measures"
+    ],
+    "materialType": "Population Data",
+    "collectionType": "Retrospective",
+    "cancerType": ["Breast", "Lung", "Colorectal", "Pancreatic"],
+    "omicsDataType": [
+      "Epidemiological Data",
+      "Demographic Data",
+      "Environmental Data"
+    ],
+    "generationPipelines": [
+      "Data Collection",
+      "Data Analysis",
+      "Statistical Modeling"
+    ],
+    "analysisMethods": [
+      "Descriptive Epidemiology",
+      "Multivariate Analysis",
+      "Incidence Rate Calculation"
+    ],
+    "clinicalinformation": [
+      "Informed consent",
+      "Ethical review board approval"
+    ],
+    "ethicalConsideration": [
+      "Epidemiologists",
+      "Public Health Experts",
+      "Ethical Review Board Members"
+    ],
+    "dataSharing": "Aggregated data shared with the scientific community",
+    "collaborations": [
+      "Epidemiologists",
+      "Public Health Experts",
+      "Government Health Agencies"
+    ],
+    "contactInformation": [
+      "https://epistudy.cancerresearch.org",
+      "contact@epistudy.cancerresearch.org",
+      "Dr. Sarah Johnson",
+      "Epidemiology Department, Cancer Research Institute"
+    ]
+  },
+
+  {
+    "id": "hitron-omics-2",
+    "cardTitle": "Metabolomics Research in Cancer Metabolism",
+    "cardAbstract": "Metabolomics Research investigates the metabolic pathways in cancer cells, offering potential targets for cancer therapies. Researchers study the metabolic processes within cancer cells to discover vulnerabilities that can be targeted with new therapies. This project aims to develop drugs and treatment strategies that disrupt cancer cell metabolism, hindering their growth and progression.",
+    "cardTags": [
+      "Dataset",
+      "Metabolomics",
+      "Cancer Metabolism",
+      "Therapeutic Targets"
+    ],
+    "materialType": "Cancer Cell Lines",
+    "collectionType": "Prospective",
+    "cancerType": ["Breast", "Lung", "Colorectal", "Pancreatic"],
+    "omicsDataType": ["Metabolomics Data"],
+    "generationPipelines": [
+      "Metabolite Profiling",
+      "Metabolic Pathway Analysis"
+    ],
+    "analysisMethods": [
+      "Metabolic Profiling",
+      "Metabolite Quantification",
+      "Pathway Analysis"
+    ],
+    "clinicalinformation": [
+      "Laboratory Protocols",
+      "Ethical Research Practices"
+    ],
+    "ethicalConsideration": [
+      "Metabolomics Researchers",
+      "Laboratory Technicians"
+    ],
+    "dataSharing": "De-identified data shared with the scientific community",
+    "collaborations": [
+      "Oncologists",
+      "Metabolomics Experts",
+      "Bioinformaticians"
+    ],
+    "contactInformation": [
+      "https://metabolab.cancercenter.org",
+      "contact@metabolab.cancercenter.org",
+      "Dr. Michael Rodriguez",
+      "Metabolomics Lab, Cancer Center"
+    ]
+  },
+
+  {
+    "id": "hitron-study-2",
+    "cardTitle": "Machine Learning for Cancer Diagnosis",
+    "cardAbstract": "Machine Learning for Cancer Diagnosis project develops AI models for early cancer detection, improving diagnostic accuracy. The project uses machine learning algorithms to analyze medical imaging and patient data for early detection of various cancer types. The goal is to reduce false negatives and positives, leading to more accurate diagnoses and improved patient outcomes.",
+    "cardTags": [
+      "Dataset",
+      "Machine Learning",
+      "Cancer Diagnosis",
+      "AI Models"
+    ],
+    "materialType": "Medical Imaging Data",
+    "collectionType": "Prospective",
+    "cancerType": ["Breast", "Lung", "Colorectal", "Pancreatic"],
+    "omicsDataType": ["AI Models", "Medical Imaging Data"],
+    "generationPipelines": [
+      "Data Collection",
+      "Data Preprocessing",
+      "Machine Learning Model Training"
+    ],
+    "analysisMethods": [
+      "Image Classification",
+      "Deep Learning Algorithms",
+      "Patient Data Analysis"
+    ],
+    "clinicalinformation": ["Patient Consent", "Medical Ethics Guidelines"],
+    "ethicalConsideration": [
+      "Data Scientists",
+      "Radiologists",
+      "Medical Ethicists"
+    ],
+    "dataSharing": "De-identified data shared with the scientific community",
+    "collaborations": ["Radiologists", "AI Experts", "Oncologists"],
+    "contactInformation": [
+      "https://mlcancerdiagnosis.org",
+      "contact@mlcancerdiagnosis.org",
+      "Dr. Mark Anderson",
+      "Machine Learning Department, Cancer Diagnosis Institute"
+    ]
+  },
+
+  {
+    "id": "hitron-immuno-2",
+    "cardTitle": "Immunology and Immunotherapy Education Outreach",
+    "cardAbstract": "This project focuses on educating the public about immunology and the benefits of immunotherapy in cancer treatment. The project conducts outreach programs, workshops, and public awareness campaigns to inform individuals about the role of the immune system in fighting cancer. By promoting immunology education, the project seeks to empower patients and improve their understanding of immunotherapy options.",
+    "cardTags": [
+      "Dataset",
+      "Immunology Education",
+      "Immunotherapy",
+      "Public Outreach"
+    ]
+  },
+  {
+    "id": "hitron-clinicaltrials-1",
+    "cardTitle": "Cancer Clinical Trials and Drug Development",
+    "cardAbstract": "Cancer Clinical Trials and Drug Development seeks to design and conduct clinical trials for promising cancer drugs. This project collaborates with pharmaceutical companies, medical institutions, and regulatory authorities to establish and oversee clinical trials. By providing a structured approach to drug testing, the project aims to accelerate the development of new cancer treatments.",
+    "cardTags": [
+      "Dataset",
+      "Clinical Trials",
+      "Drug Development",
+      "Promising Drugs"
+    ]
+  },
+  {
+    "id": "hitron-omics-3",
+    "cardTitle": "Functional Genomics in Cancer Research",
+    "cardAbstract": "Functional Genomics in Cancer Research project investigates how specific genes and genetic variations contribute to cancer development. Researchers aim to understand the functional consequences of genetic mutations and their role in cancer progression. The insights gained may lead to the identification of novel therapeutic targets and treatment approaches.",
+    "cardTags": [
+      "Dataset",
+      "Functional Genomics",
+      "Cancer Research",
+      "Therapeutic Targets"
+    ]
+  },
+  {
+    "id": "hitron-study-3",
+    "cardTitle": "Cancer Incidence Trends in Urban Environments",
+    "cardAbstract": "Cancer Incidence Trends in Urban Environments project analyzes the changing patterns of cancer incidence in urban areas. Researchers examine lifestyle factors and environmental conditions contributing to the rise or decline of specific cancer types. The findings may inform urban planning and public health initiatives.",
+    "cardTags": [
+      "Dataset",
+      "Epidemiological Studies",
+      "Urban Environments",
+      "Public Health"
+    ]
+  },
+  {
+    "id": "hitron-omics-4",
+    "cardTitle": "Genetic Biomarkers for Early Cancer Detection",
+    "cardAbstract": "Genetic Biomarkers for Early Cancer Detection project focuses on identifying genetic biomarkers associated with different cancer types. Researchers aim to develop non-invasive tests for early cancer detection by analyzing genetic variations in blood or other samples. Early detection can lead to more effective treatments and improved survival rates.",
+    "cardTags": [
+      "Dataset",
+      "Genetic Biomarkers",
+      "Cancer Detection",
+      "Early Diagnosis"
+    ]
+  },
+  {
+    "id": "hitron-immuno-3",
+    "cardTitle": "Immunotherapy in Solid Tumor Treatment",
+    "cardAbstract": "Immunotherapy in Solid Tumor Treatment project concentrates on enhancing immunotherapy techniques for solid tumor cancers. Researchers investigate the unique challenges presented by solid tumors and explore immunotherapeutic strategies to target these cancers effectively. The project aims to improve outcomes for patients with solid tumor malignancies.",
+    "cardTags": ["Dataset", "Immunotherapy", "Solid Tumors", "Cancer Treatment"]
+  },
+  {
+    "id": "hitron-study-4",
+    "cardTitle": "Cancer Risk Factors in Aging Populations",
+    "cardAbstract": "Cancer Risk Factors in Aging Populations project examines the specific risk factors contributing to cancer in older individuals. Researchers analyze lifestyle, genetics, and other factors to better understand the increased cancer risk in aging populations. The findings may lead to tailored prevention and screening programs.",
+    "cardTags": [
+      "Dataset",
+      "Cancer Risk Factors",
+      "Aging Populations",
+      "Prevention"
+    ]
+  },
+  {
+    "id": "hitron-omics-5",
+    "cardTitle": "Functional Genomics in Leukemia Research",
+    "cardAbstract": "Functional Genomics in Leukemia Research project focuses on the functional genomics of leukemia, aiming to discover new treatment options. Researchers investigate the genetic basis of different leukemia subtypes, seeking to identify therapeutic vulnerabilities. The project may lead to the development of targeted therapies for leukemia patients.",
+    "cardTags": [
+      "Dataset",
+      "Leukemia Research",
+      "Functional Genomics",
+      "Therapeutic Targets"
+    ]
+  },
+  {
+    "id": "hitron-immuno-4",
+    "cardTitle": "Immunotherapy and Checkpoint Inhibitors",
+    "cardAbstract": "Immunotherapy and Checkpoint Inhibitors project delves into the use of checkpoint inhibitors in cancer immunotherapy. Researchers focus on optimizing checkpoint inhibitor therapies to enhance their effectiveness in various cancer types. The project aims to broaden the applications of immunotherapy and improve patient responses.",
+    "cardTags": [
+      "Dataset",
+      "Immunotherapy",
+      "Checkpoint Inhibitors",
+      "Cancer Treatment"
+    ]
+  }
+]

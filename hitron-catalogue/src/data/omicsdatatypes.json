@@ -1,0 +1,11 @@
+[
+  { "name": "Genomics" },
+  { "name": "Transcriptomics" },
+  { "name": "Proteomics" },
+  { "name": "Metabolomics" },
+  { "name": "Epigenomics" },
+  { "name": "Phenomics" },
+  { "name": "Lipidomics" },
+  { "name": "Glycomics" },
+  { "name": "Metagenomics" }
+]

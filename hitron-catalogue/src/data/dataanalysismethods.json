@@ -1,0 +1,19 @@
+{
+  "dataAnalysisMethods": [
+    {
+      "code": "DAM1",
+      "name": "Bioinformatics",
+      "description": "Bioinformatics data analysis methods"
+    },
+    {
+      "code": "DAM2",
+      "name": "Statistical Analysis",
+      "description": "Statistical data analysis methods"
+    },
+    {
+      "code": "DAM3",
+      "name": "Machine Learning",
+      "description": "Machine learning data analysis methods"
+    }
+  ]
+}

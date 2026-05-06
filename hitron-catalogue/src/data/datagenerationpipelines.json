@@ -1,0 +1,19 @@
+{
+  "dataGenerationPipelines": [
+    {
+      "code": "DGP1",
+      "name": "Sequencing",
+      "description": "Sequencing data generation pipeline"
+    },
+    {
+      "code": "DGP2",
+      "name": "Microarray",
+      "description": "Microarray data generation pipeline"
+    },
+    {
+      "code": "DGP3",
+      "name": "Mass Spectrometry",
+      "description": "Mass spectrometry data generation pipeline"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "materialTypes": [
+    {
+      "code": "MT1",
+      "name": "Blood",
+      "description": "Blood samples"
+    },
+    {
+      "code": "MT2",
+      "name": "Tissue",
+      "description": "Tissue samples"
+    },
+    {
+      "code": "MT3",
+      "name": "Urine",
+      "description": "Urine samples"
+    },
+    {
+      "code": "MT4",
+      "name": "Saliva",
+      "description": "Saliva samples"
+    },
+    {
+      "code": "MT5",
+      "name": "Cell Lines",
+      "description": "Cell lines used in research"
+    }
+  ]
+}

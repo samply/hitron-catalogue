@@ -1,0 +1,24 @@
+{
+  "collectionTypes": [
+    {
+      "code": "CT1",
+      "name": "Biopsy",
+      "description": "Biopsy samples"
+    },
+    {
+      "code": "CT2",
+      "name": "Surgery",
+      "description": "Samples collected during surgery"
+    },
+    {
+      "code": "CT3",
+      "name": "Screening",
+      "description": "Samples from screening programs"
+    },
+    {
+      "code": "CT4",
+      "name": "Research",
+      "description": "Samples collected for research purposes"
+    }
+  ]
+}
