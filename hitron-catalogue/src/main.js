@@ -5,9 +5,8 @@ import HitronCatalogue from "./components/HitronCatalogue.vue";
 import Startpage from "./components/Startpage.vue";
 import DetailView from "./components/DetailView.vue";
 import SomeHitronQuery from "./components/SomeHitronQuery.vue";
-import VTooltip from "v-tooltip";
 
-import "molgenis-components/dist/molgenis-components.css";
+import "molgenis-components/dist/style.css";
 
 const router = createRouter({
   history: createWebHashHistory(),
@@ -40,6 +39,4 @@ const router = createRouter({
 
 const app = createApp(App);
 app.use(router);
-app.use(VTooltip);
-
 app.mount("#app");

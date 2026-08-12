@@ -3,8 +3,5 @@ import vue from "@vitejs/plugin-vue";
 
 export default defineConfig(({ command }) => ({
   plugins: [vue()],
-  base: command === "serve" ? "/" : "apps/hitron-catalogue/",
-  server: {
-    proxy: require("../dev-proxy.config"),
-  },
+  base: command === "serve" ? "/" : "/apps/hitron-catalogue/",
 }));
